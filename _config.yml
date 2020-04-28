@@ -1,13 +1,13 @@
 title: Think Big, Do Small
 author: Wang Zhao
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+email: 195335399@qq.com
+description: "my bolg"  
   
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  wangzhao7 # DO NOT include the @ character, or else the build will fail!
+github_username:  wangzhao # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+#show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-minimal
